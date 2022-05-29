@@ -74,7 +74,7 @@ button{
 .hero>video{
     z-index:1;
     position:absolute;
-    width: 100%;
+    width: auto;
     height: 105%;
 }
 .hero-particles{
